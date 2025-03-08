@@ -15,3 +15,4 @@
 "Commit The ambience distributes." 
 "Commit The pleasure skips." 
 "Commit The urgency scolds." 
+"Commit The seeker interrupts." 
