@@ -16,3 +16,4 @@
 "Commit The pleasure skips." 
 "Commit The urgency scolds." 
 "Commit The seeker interrupts." 
+"Commit The plier orders." 
